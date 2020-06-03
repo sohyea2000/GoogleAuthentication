@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Authentication</string>
+    <string name="welcome_to_sign_in_page">WELCOME TO SIGN-IN PAGE</string>
+
+    <string name="welcome_to_your_profile">WELCOME TO YOUR PROFILE</string>
+    <string name="logout">LOGOUT</string>
+</resources>
